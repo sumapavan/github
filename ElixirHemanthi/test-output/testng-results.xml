@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18788" started-at="2018-06-27T05:06:21Z" finished-at="2018-06-27T05:06:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18788" started-at="2018-06-27T05:06:21Z" finished-at="2018-06-27T05:06:40Z">
+      <class name="selenium.ElixirRegistrationTest">
+        <test-method status="PASS" signature="browser()[pri:0, instance:selenium.ElixirRegistrationTest@646d64ab]" name="browser" is-config="true" duration-ms="10308" started-at="2018-06-27T05:06:21Z" finished-at="2018-06-27T05:06:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:selenium.ElixirRegistrationTest@646d64ab]" name="login" duration-ms="3723" started-at="2018-06-27T05:06:31Z" finished-at="2018-06-27T05:06:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="setting()[pri:1, instance:selenium.ElixirRegistrationTest@646d64ab]" name="setting" duration-ms="4693" started-at="2018-06-27T05:06:35Z" finished-at="2018-06-27T05:06:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setting -->
+      </class> <!-- selenium.ElixirRegistrationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
